@@ -8,7 +8,7 @@ import UserHomePageIcon from "../assets/User_Homepage.svg";
 
 const Navbar = () => {
     return (
-        <div className="flex flex-1 justify-between items-center py-4 px-32">
+        <div className="flex justify-between items-center py-2 md:py-4 px-4 md:px-8 lg:px-32">
             <NavLink className="hover:shadow-md hover:scale-[1.2]" to={`/`}>
                 <img src={HomeIcon} alt=""/>
             </NavLink>

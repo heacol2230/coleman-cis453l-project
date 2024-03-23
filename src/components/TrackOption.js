@@ -1,4 +1,4 @@
-const TrackOption = ({ text }) => {
+const TrackOption = ({ text, id }) => {
   return (
     <div className="flex items-center justify-center my-2">
       <div className="mr-4 flex gap-2">
@@ -9,6 +9,7 @@ const TrackOption = ({ text }) => {
                     checked:border-[#ff4000] 
                     disabled:border-steel-400 disabled:bg-steel-400"
           type="checkbox"
+          id={id}
         />
         <svg
           className="absolute w-4 h-4 pointer-events-none hidden peer-checked:block stroke-[#ff4000] mt-1 outline-none"
