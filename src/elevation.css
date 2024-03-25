@@ -1,0 +1,46 @@
+/* elevation.css */
+
+/* Define elevation styles */
+.elevation-yellow {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* Elevation level 1 */
+.elevation-yellow-1 {
+    box-shadow: 0 2px 4px rgba(255, 235, 59, 0.1), 0 2px 4px rgba(255, 235, 59, 0.06);
+}
+
+/* Elevation level 2 */
+.elevation-yellow-2 {
+    box-shadow: 0 4px 8px rgba(255, 235, 59, 0.1), 0 4px 8px rgba(255, 235, 59, 0.06);
+}
+
+/* Elevation level 3 */
+.elevation-yellow-3 {
+    box-shadow: 0 8px 16px rgba(255, 235, 59, 0.1), 0 8px 16px rgba(255, 235, 59, 0.06);
+}
+
+/* Elevation level 4 */
+.elevation-yellow-4 {
+    box-shadow: 0 16px 32px rgba(255, 235, 59, 0.1), 0 16px 32px rgba(255, 235, 59, 0.06);
+}
+
+/* Elevation level 5 */
+.elevation-yellow-5 {
+    box-shadow: 0 32px 64px rgba(255, 235, 59, 0.1), 0 32px 64px rgba(255, 235, 59, 0.06);
+}
+
+/* Elevation level 6 */
+.elevation-yellow-6 {
+    box-shadow: 0 40px 80px rgba(255, 235, 59, 0.2), 0 40px 80px rgba(255, 235, 59, 0.12);
+}
+
+/* Elevation level 7 */
+.elevation-yellow-7 {
+    box-shadow: 0 48px 96px rgba(255, 235, 59, 0.3), 0 48px 96px rgba(255, 235, 59, 0.18);
+}
+
+/* Elevation level 8 */
+.elevation-yellow-8 {
+    box-shadow: 0 56px 112px rgba(255, 235, 59, 0.4), 0 56px 112px rgba(255, 235, 59, 0.24);
+}

@@ -6,15 +6,16 @@ export default function UserHomePage() {
   return (
     <div className="min-h-screen">
       <Navbar />
-      <div className="py-8">
+      <div className="py-4">
         <div className="flex flex-col items-center">
           <div className="text-white text-center text-[24px]">
             <p>Welcome back Heather! It looks</p>
             <p>like we have some work to do.!!</p>
             <p>Let's get started on these urgent</p>
             <p>
-              tasks to get your{" "}
-              <span className="font-bold text-[28px] italic">Sick</span>
+              tasks to get your{" "}</p>
+              <p>
+                <span className="font-bold text-[28px] italic">Sick</span>
             </p>
             <p className="font-bold text-[28px]">beats noticed!</p>
           </div>
