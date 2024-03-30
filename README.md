@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Creator: Heather Coleman CIS453L
+# This web application, “Fame Tracker” is intended for musicians  currently on social media. The goal is growing their fan base and climbing the  
+# ladder on social media. Through completion of daily suggested tasks, they will be able to achieve popularity, and ultimately, a large fan base. # This will assist in a solid foundation  to get  the start they need to use their true talents and the ability to be recognized by those in the
+# industry to help them reach stardom. 
+***There is a subscription for the service which allows them to buy one-on-one guidance from experts in the field in addition to a monthly subscription.
+Project Build Details: This project is built using React.js and Tailwind.css
+ 
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
