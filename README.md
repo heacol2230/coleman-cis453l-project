@@ -1,7 +1,8 @@
 # Creator: Heather Coleman CIS453L
 # Project Build Details: This project is built using React.js and Tailwind.css
 # “Fame Tracker” is intended for musicians currently on social media. The goal is growing their fan base and climbing the  
-# ladder on social media. Through completion of daily suggested tasks, they will be able to achieve popularity, and ultimately, a large fan base. # This will assist in a solid foundation  # to get  the start they need to use their true talents and the ability to be recognized by those in the
+# ladder on social media. Through completion of daily suggested tasks, they will achieve popularity. This will assist in a solid foundation  
+# to get  the start they need to use their true talents and the ability to be recognized by those in the
 # industry to help them reach stardom. 
 
  
